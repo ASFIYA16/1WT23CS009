@@ -6,4 +6,8 @@ Section: B
 Branch: Computer Science
 Year of Admission: 2023
 College Name: GIT
+School: UBK Model school
+PUC: BET Compusite pu college
+UG: GIT
+
 
