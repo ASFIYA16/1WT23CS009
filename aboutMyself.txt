@@ -1,0 +1,9 @@
+Tittle: Miss 
+Full Name: Asfiya Fathima
+USN: 1WT23CS009
+Sem: Third
+Section: B
+Branch: Computer Science
+Year of Admission: 2023
+College Name: GIT
+
